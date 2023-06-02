@@ -7,7 +7,7 @@ Picture in Picture allows for multitasking if you want to watch a video while wo
 Find out more about the [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API).
 
 #
-You can visit the deployed application [here](https://allymitchem.github.io/pictureInPicture/).
+Visit the deployed application [here](https://allymitchem.github.io/pictureInPicture/)!
 
 ## Technologies Used
 * JavaScript
